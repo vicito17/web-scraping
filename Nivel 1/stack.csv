@@ -1,0 +1,228 @@
+descripcion,id,pregunta
+"
+            I have a header with a fixed position. And I also have content (items-wrapper) with a static position. If my header doesn't have a fixed position it scrolls normally with an items-wrapper container ...
+        ",[0],Scroll position fixed element synchronously with non-fixed element
+"
+            I am trying to get a method of a class I load during runtime using Class.getDeclaredMethod. The parameters for Class.getDeclaredMethod are String name, Class<?>... parameterTypes. I have the ...
+        ",[1],Convert List<Class> to Class… to get declared method
+"
+            In a Bootstrap3.3.7/AngularJS app we have a form with several references to form-control and form-group.  It's available as a standalone route /path/to/form or as a modal popup.  A snippet of the ...
+        ",[2],Modal IFrame squeezing form
+"
+            As our education organization let manage our messaging system by google suit for education, I have create a simple account admin@my-domain, i use it just to send email to everywhere, must of this ...
+        ",[3],Create a noreply@domain account in google suit for education
+"
+            I need to sum and group the conversion rate by age. The code below is from the book Hands-on Data Science for Marketing by Yoon Hyup Hwang.
+The book provides the following code but it does not work:
+...
+        ",[4],Sum Conversion Rate and Then Group By Age
+"
+            I run a Wordpress job board website, where I have a ""Company"" custom post with several ACF fields and a featured image, and a ""Job"" custom post always linked to a specific company.
+...
+        ",[5],How to get featured image of an ACF relation field
+"
+            I uploaded my app to the play store and I received an email from Google developer that I have to modify my sentences in the https code. I am doing a data submission over https using the TrustManager ...
+        ",[6],How can I use CertificateException in TrustManager?
+"
+            i make a many to many relationship table with Laravel and i use frontend as vuejs. i want to get all my related job category ids into specific person. my models looks like this.
+In my Person modal ...
+        ",[7],need to get related ids from pivot table
+"
+            I have an image that I can move within a canvas by dragging with the mouse, I can obtain the mouse coordinates, but what I really want is to obtain the coordinates of the image.
+I have tried with the ...
+        ",[8],"How can I get the X and I of the image, when I move it with the mouse?"
+"
+            I'm working on a program to fetch XML data from a URL and convert it to JSON. However, my problem isn't necessarily fetching the data, but the compatibility with the URL. All of the URLs I'm trying to ...
+        ",[9],How to fetch XML data in a certain format (Python)
+"
+            I have a question about a project I am working on. I tried to search answers for my questions on the internet, but I couldn't find any. So here I am..
+I have a txt file with questions in it (...
+        ",[10],Reading from a file and writing to another file
+"
+            Prologue:
+I have a hikvision ipcamera that streams raw h264 from a rtsp:// url, I need to play this live feed in the browser.
+I managed to get a basic RTSP->ffmpeg-> (faststart) mp4 pipeline ...
+        ",[11],asp.net core live mp4 streaming
+"
+            I have the following datatable and I want to create a ordered list of values, but LINQ is still a bit of a magic box to me, so how do I write the following line such that the upcList ...
+        ",[12],Linq OrderBy of IEnumerableRow Collection
+"
+            I just wrote in my console the following code:
+[0.1*i for i in range(6)]
+
+and the result is as below:
+[0.0, 0.1, 0.2, 0.30000000000000004, 0.4, 0.5]
+
+Why is ONLY the fourth result off?
+        ",[13],Why python cannot multiply 3 x 0.1? [duplicate]
+"
+            I have a problem in my Kernel module, I am writing a module that allows threads from different processes to exchange messages,I am generating different CHRDriver to achieve it. I wrote the skeleton of ...
+        ",[14],"Hi, problem with chr device in Linux Kernel"
+"
+            I have tow entities linked by a @ManyToMany, Criterias and Rules. Both can be activated or not, and Rules can also be critical or not. They have corresponding field in their entities. I need a query ...
+        ",[15],How to use a SubQeryExpression in QueryDSL BooleanExpression
+"
+            I have two docker container running on default network on my Ubuntu PC. And I have an Ubuntu VM running on the same PC with a bridged adapter(wlp3s0) and I am trying to run 2 more containers on the ...
+        ",[16],Can't reach docker network in a VM with bridged network
+"
+            Hey i'm new on stackoverflow,
+i've been having a headache with the BLoC Architecture.
+i am working on a Flutter project but it's a bit old, so now i'm in a crossroad.
+i have a ListView of players and ...
+        ",[17],Integrating BLoC provider to an old flutter project
+"
+            I am starting up a new React-Rails project and got a sample app up and running with rails server and webpack-dev-server (run with foreman start command).
+However now I am trying to view the site using ...
+        ",[18],Webpacker doesn't compile when I run rails server
+"
+            I have two workbooks with different formats, I need to check if the values of One column in workbook 1 matches to a range of cells in workbook 2,
+For example if we have 10 students (Workbook1) in a ...
+        ",[19],"Compare a cell value from Workbook 1 with multiple cells in Workbook 2, if matches then +1 in below cell of WB2"
+"
+            This exception is coming when I am trying to run glassfish5 in eclipse ide.
+Cannot start JXM connector JmxConnector config:{namw=system,Protocol=rmi_jrmp,Address=0..0.0.0,Port:8686,AcceptAll=false,...
+        ",[20],Eclipse and Glassfish5: Cannot start JXM connector JmxConnector config:
+"
+            We have following Situation here,
+We have 3 nodes with DRBD Setup. 2 Nodes are part of pacemaker clustering and 1 node is DR Node. As part of DR testing we have shutdown 2 Nodes (Pacemaker), and ...
+        ",[21],Stacked DRBD (DR Node) not Syncing Back to Primary Site
+"
+            I have a summary sheet in my first worksheet page, which includes a full roster of all employees. In another sheet, I have a list of a specific set of employees from within the total, and the hours ...
+        ",[22],Copy and Paste if Criteria matches
+"
+            I have the following query in Jython where I need to pass a variable. can you please help?
+dlRule = test
+selectStmt = ""select dlRule  as COL1, format(Princ.periodkey,'yyyy') as COL2, 'M' + format(...
+        ",[23],jython pass a variable into select statement
+"
+            I am trying to build a Django dashboard app for a production server using Nginx and Gunicorn. The app is running on the Nginx server. The login and authentication page is also working fine. I am using ...
+        ",[24],Django App for Production Server using nginx and Gunicorn
+"
+            is there any code example for get current GPS location on android. I already try this link
+https://developer.here.com/documentation/android-starter/3.15/dev_guide/topics/map-positioning.html but it's ...
+        ",[25],Get spesific current location based on android GPS using here-api
+"
+            I am assigning a custom color from my Colors.xcassets (that has two color values, one for light, one for dark mode) to my navigation bar using this method:
+[self.navigationController.navigationBar ...
+        ",[26],Why do dynamic colors from my colors catalogue do not work on my navigation bar?
+"
+            public static int countDuplicate(List<Integer> numbers)
+{
+    int total_count=0,i,j;
+    Collections.sort(numbers);
+    for(i=0;i<numbers.size()-1;i++)
+    {
+        int count=0;
+        for(...
+        ",[27],I need to find number of duplicate elements in a list in java
+"
+            There are three models: production, track, artist. Artists are foreign keyed to production, tracks are foreign keyed to artists. How to serialize the tracks inherent in the artists in specific ...
+        ",[28],Serialization Django
+"
+            My hashtag network co-occurrence network is stored as an adjacency matrix in CSV format like this.
+,#A,#B,#C,#D,#E,#F,#G,#H,#I,#J,#K
+#A,0,1,1,0,1,1,1,1,0,1,0
+#B,1,0,0,0,1,1,1,1,0,1,0
+#C,1,0,0,0,1,1,1,...
+        ",[29],How to import csv format Adjacency Matrix hashtag network in CSV file?
+"
+            I am extracting some data ""names"" from a txt file and I am trying to use that name for the audioread() function in order to go into the Matlab location and open the corresponding audio ...
+        ",[30],I am trying to extract from text file data and add it into the audioread function Matlab
+"
+            I have a question - is any way to block all subrequests from webview. I want to get simple html, but this process is taking too long due to subqueries like ajax, css, javascript, iframe, img, etc.
+        ",[31],"Webview on flutter, how to block any subrequests from webview?"
+"
+            I would like to input the subtotal formula to excel spreadsheet with the following:
+ws['I10'] = ""=SUBTOTAL(9;I{0}:I{1})"".format(1,9))
+
+I get the following warning:
+
+If i try to do a simple ...
+        ",[32],Openpyxl how to parse SUBTOTAL formula to excel Spreadsheet
+"
+            How can I remove a div from a unique id? I've tried many ways but always fail.
+function uniqId() {
+  return Math.round(new Date().getTime() + (Math.random() * 100));
+}
+function sklik() {
+  var dov1 = ...
+        ",[33],How to remove a div from unique id?
+"
+            I use cypress to test Human Machine Interfaces (HMI) for programable logic controllers. The tests are pretty basic and mainly consist of click events and intercepting the network communication with ...
+        ",[34],Cypress does not recognice testcases
+"
+            In Python's regex: why does regex1 complain about fixed-width look-behinds if regex2 does not? Is ^ (start marker) more than 1 character?
+Regex1
+(?<=^|b)[0-9]
+
+Regex2
+(?<=a|b)[0-9]
+
+...
+        ",[35],Python regex look-behind strange behaviour with character '^'
+"
+            I have a website (Umbraco based) with a simple form. This form contains a file upload field.
+My model has this property:
+    [MaxFileSize(5242880, ErrorMessage = ""File to big. Max: {0} bytes""...
+        ",[36],Why does Model validation works differently on my local vs on the live server?
+"
+            I am in Excel and am trying to determine a function that will SUM the number of times a person did something based on the value of two different columns. Currently, when there is a date in either ...
+        ",[37],Is there an IF or COUNTIF function that will calculate how many times a person did something based on a value of two different columns?
+"
+            I am using Seaborn violinplot() and swarmplot() to show data from a Dataframe. Swarmplot works fine, while I am having troubles using the violinplot.
+I do all plots in loops and most of them show up ...
+        ",[38],Seaborn violinplots not showing correctly
+"
+            I am trying to copy a table from one postgres database (dss_test) to another (dss_prod) using the Python module sqlalchemy. I want to copy the metadata too (e. g. datatypes, constraints etc.).
+I ...
+        ",[39],Copy Postgres-Table with Python (sqlalchemy) but can't change the target schema
+"
+            I want to read a filename  in pattern ABC-2020-10-08.csv or  ABC-2020-10-09.csv or ABC-2020-10-01.csv , How can I read the file irrespective of the date in perl
+        ",[40],"I want to read a filename in pattern ABC-2020-10-08.csv or ABC-2020-10-09.csv , How can I read the file irrespective of the date in perl"
+"
+            I am trying to extract all the links in youtube using bs4 and urllib,
+I dont wanted to use selenium because it is slow and a bit heavy, so i tried this code
+from bs4 import BeautifulSoup
+import urllib....
+        ",[41],extracting all the links in youtube search results
+"
+            On my PC I get the following error starting my Spring-Boot Server:
+org.postgresql.util.PSQLException: FATAL: Datenbank ╗Test½ existiert nicht (pgjdbc: autodetected server-encoding to be ISO-8859-1, if ...
+        ",[42],Cryptic Databasenames for PostgreSQL using Spring Boot Maven
+"
+            Para ser mais exato na pergunta, gostaria de saber como posso bloquear o Usuário fazer mais de um registro no site. Estou montando um site de filmes com assinatura, estilo Netflix, e nele você tem um ...
+        ",[43],Como posso bloquear mais de 1 registro por IP [closed]
+"
+            I know I've done this before, but I'm spacing on how to properly do it, now.
+I'm trying to call the Paylocity token API.  Doing it with cURL and Postman works just fine.  But, I can't remember how to ...
+        ",[44],POST application/x-www-form-urlencoded Body to REST API using Jitterbit
+"
+            I need to split an array of objects in two arrays the sum of the values of which is BEST close to equal or even equal.
+EXAMPLE 1:
+[
+{int index = 0, double value = 10}, 
+ {int index = 1, double value = ...
+        ",[45],C# Split array to create two best equal subsets
+"
+            I have a stored procedure that executes every 2 hours on a job agent that populates a table . The stored procedure DELETES everything out of the table and then reinserts everything back in.  This is ...
+        ",[46],Update a table with the newest data without deleting and duplicating
+"
+            My JSON file has the following structure
+[
+    {
+        ""Header"": {
+            ""Tenant"": ""T1""
+        },
+        ""Body"": [
+            {
+                ""...
+        ",[47],jq - select and filter only certain objects from the array
+"
+            I am trying to send an OTP from react-native using firebase, but it's not working. I am getting an error ""Hostname Not Found"". I wanted to understand how does this sending OTP works in ...
+        ",[48],Facing issue while sending OTP from react native using firebase
+"
+            There is a way that allows me that when I am editing a js file I can through a shortcut: open the terminal and run it automatically:
+1- Open terminal
+2- node my-file.js
+Right now it only manages to ...
+        ",[49],Vscode Shortcut for run script on terminal?
